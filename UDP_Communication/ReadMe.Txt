@@ -8,7 +8,7 @@ C++ client
 -UDP is built on winsock
 -Uses opencv to load and encode images
 
-Python server
+UDP_socket_receive.py - Python server
 -platform windows
 -Server receives the data buffer, decodes and shows it using opencv 
 
